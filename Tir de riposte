@@ -1,0 +1,2 @@
+#showtooltip Tir de riposte
+/cast [@mouseover, harm, nodead][] Tir de riposte
