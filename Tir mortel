@@ -1,0 +1,2 @@
+#showtooltip Tir mortel
+/cast [@mouseover, harm, nodead][] Tir mortel
