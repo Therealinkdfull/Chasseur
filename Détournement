@@ -1,0 +1,3 @@
+#showtooltip Détournement
+/stopcasting
+/cast [@focus,exists][@mouseover,help][@pet,exists][@target] Détournement
