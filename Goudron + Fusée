@@ -1,0 +1,2 @@
+#showtooltip Piège de goudron
+/castsequence [@cursor] Piège de goudron, Fusée éclairante
